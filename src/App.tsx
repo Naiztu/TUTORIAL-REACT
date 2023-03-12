@@ -1,10 +1,9 @@
-
-import StateRecoil from "./components/V03/StateRecoil";
+import ExampleV04 from "./components/V04/ExampleV04";
 
 function App(): JSX.Element {
   return (
-    <div className="bg-cyan-200 w-screen h-screen">
-      <StateRecoil/>
+    <div className="w-full h-screen ">
+      <ExampleV04 />
     </div>
   );
 }
