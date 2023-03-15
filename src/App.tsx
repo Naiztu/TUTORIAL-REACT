@@ -1,9 +1,9 @@
-import ExampleV05 from "./components/V05/ExampleV05";
+import ExampleV06 from "./components/V06/ExampleV06";
 
 function App(): JSX.Element {
   return (
-    <div className="w-full h-screen ">
-      <ExampleV05 />
+    <div className="w-full h-full">
+      <ExampleV06 />
     </div>
   );
 }
